@@ -1,0 +1,68 @@
+*{
+    margin:0;
+    padding:0;
+}
+nav{
+    background-color: black;
+    color:white;
+    padding: 15px;
+}
+li,ul,h1{
+    display: inline;
+    padding: 15px;
+}
+
+ul{
+    margin-left: 60%;
+}
+Li{
+    color: gray;
+    cursor: pointer;
+}
+li:hover{
+color: pink;
+}
+.search{
+    padding: 20px;
+    background-attachment:scroll;
+}
+input{
+    width: 60%;
+    padding:20px;
+}
+.inputing{
+    padding: 25px;
+    text-align: center;
+}
+.cars{
+    border-color:black;
+    border-width: 2px;
+    border-style: double; padding: 15px;
+    display: inline-block;
+    width: 400px;
+}
+.product{
+    padding-top: 50px;
+    padding-left:10px;
+}
+.product :hover{background-color: pink;
+
+}
+.about{
+    padding: 20px;
+}
+.ok{
+    padding-left: 30px;
+}
+.baby{
+    background-color: black;
+    color:white;
+    padding: 10px;
+    text-align: center;
+    cursor:pointer;
+}
+.baby  :hover{
+    background-color: chocolate;
+
+
+}
